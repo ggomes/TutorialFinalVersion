@@ -1,0 +1,64 @@
+% $ biblatex auxiliary file $
+% $ biblatex version 1.7 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\entry{leung_weight-for-age_1996}{article}{}
+  \name{author}{4}{}{%
+    {{}%
+     {Leung}{L.}%
+     {Ssf}{S.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Lau}{L.}%
+     {Jtf}{J.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Tse}{T.}%
+     {Ly}{L.}%
+     {}{}%
+     {}{}}%
+    {{}%
+     {Oppenheimer}{O.}%
+     {Sj}{S.}%
+     {}{}%
+     {}{}}%
+  }
+  \list{language}{1}{%
+    {en}%
+  }
+  \strng{namehash}{LSLJTL+1}
+  \strng{fullhash}{LSLJTLOS1}
+  \verb{doi}
+  \verb 10.1111/j.1440-1754.1996.tb00904.x
+  \endverb
+  \field{issn}{1034-4810, 1440-1754}
+  \field{number}{2}
+  \field{pages}{103\bibrangedash 109}
+  \field{title}{Weight-for-Age and Weight-for-Height References for {{Hong
+  Kong}} Children from Birth to 18 Years}
+  \field{volume}{32}
+  \field{journaltitle}{Journal of Paediatrics and Child Health}
+  \field{month}{04}
+  \field{year}{1996}
+\endentry
+
+\lossort
+\endlossort
+
+\endinput
